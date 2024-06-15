@@ -1,0 +1,11 @@
+id_transaksi;id_pelanggan;nama_pelanggan;nama_produk;kategori_produk;jumlah;hargaperunit;tanggal_transaksi;metode_pembayaran
+1;1001;John Doe;Late H;Elektronik;1;4219386;01/06/2024;Kartu Kredit
+2;1002;Jane Smith;Open H;Elektronik;2;6164568;02/06/2024;Transfer Bank
+3;1003;Alice Johnson;East D;Elektronik;3;559197;03/06/2024;Tunai
+4;1004;Bob Brown;Call H;Perabotan;4;6829901;04/06/2024;Kartu Kredit
+5;1005;Charlie Davis;Drug L;Perlengkapan kantor;5;2221686;05/06/2024;Transfer Bank
+6;1006;David Wilson;Land C ;Elektronik;2;6611462;06/06/2024;Kartu Debit
+7;1007;Emma Thomas;Reveal C;Elektronik;1;6542171;07/06/2024;Tunai
+8;1008;Frank White;Describe A;Perabotan;1;4012864;08/06/2024;Kartu Kredit
+9;1009;Grace Miller;Sort H;Perabotan;6;2050657;09/06/2024;Transfer Bank
+10;1010;Henry Clark;Might B;Perlengkapan kantor;1;2349647;10/06/2024;Kartu Kredit

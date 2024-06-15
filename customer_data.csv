@@ -1,0 +1,6 @@
+customer_id;customer_name;email;phone_number;gender
+1;John Doe;johndoe@gmail.com;1234567890;Male
+2;Jane Smith;janesmith@gmail.com;9876543210;Female
+3;Alice Johnson;alicejohnson@gmail.com;4567890123;Female
+4;Bob Brown;bobbrown@gmail.com;7890123456;Male
+5;Mary Davis;marydavis@gmail.com;3210987654;Female
